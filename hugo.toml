@@ -1,0 +1,4 @@
+baseURL = 'http://shiyanghuang.eleven/'
+languageCode = 'zh-CN'
+title = "Welcome to Eleven's homepage"
+theme = 'ananke'
